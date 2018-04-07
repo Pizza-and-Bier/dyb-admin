@@ -1,0 +1,22 @@
+{
+  "name": "dyb-admin",
+  "version": "1.0.0",
+  "description": "An administrative toolkit for Do Your Bidding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pizza-and-Bier/dyb-admin.git"
+  },
+  "author": "Anthony Pizzimenti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pizza-and-Bier/dyb-admin/issues"
+  },
+  "homepage": "https://github.com/Pizza-and-Bier/dyb-admin#readme",
+  "dependencies": {
+    "firebase-admin": "^5.10.0"
+  }
+}
